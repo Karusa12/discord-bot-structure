@@ -1,0 +1,20 @@
+#vscode
+/.vscode
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+/dist
+
+# local env files
+.env*.local
+.env
+.DS_Store
+
+# typescript
+*.tsbuildinfo
+.tsconfig.json
